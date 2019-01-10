@@ -11,4 +11,3 @@ Rippe Adrien - Slack : @Adri
 
 * Document 4 : Utilisation de 3 méthodes, l'une des méthode utilise un if pour scinder les chiffres du joueurs, ainsi qu'une boucle while pour relancer le jeu tant que le point final (10) n'est pas atteint.
 =======
->>>>>>> 7f091972328fa5678945db3ddba536cda30b9016
